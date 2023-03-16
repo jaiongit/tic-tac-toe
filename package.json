@@ -10,7 +10,7 @@
     "react-scripts": "1.0.0"
   },
   "name": "tic-tac-toe",
-  "description": null,
+  "description": "A Tic-Tac-Toe game in ReactJS",
   "version": "0.0.0",
   "scripts": {
     "start": "react-scripts start",
